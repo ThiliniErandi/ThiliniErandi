@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hello there! I'm Thilini Kumarawadu 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Age-20+-blue" />
