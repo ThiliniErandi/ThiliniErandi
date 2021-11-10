@@ -8,14 +8,14 @@
 
 Welcome to my Profile! I am an undergraduate student @Sabaragamuwa University of Sri Lanka.
 
-<h3>About me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /></h3>
+### About me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
 - 👯 I’m looking to collaborate on new open-source projects.
 - 🤝 I like to work with a team.
 - 😄 I'm eager to learn new things.
 - ⚡ Fun fact: Love to Reading Books
 
-<h3>📫 Reach me on...</h3>
+### 📫 Reach me on
 <a href="https://www.linkedin.com/in/thilini-erandi-3187451a2/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="20" width="30" /></a>
 <a href = "mailto: thilini.e97@gmail.com"><img  src="https://simpleicons.org/icons/gmail.svg" height="20" width="30" /></a>
 
