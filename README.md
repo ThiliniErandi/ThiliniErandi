@@ -12,7 +12,6 @@ Welcome to my Profile! I am an undergraduate student @Sabaragamuwa University of
 
 - 🔭 I’m currently working on my mini project
 - 🌱 I’m currently learning Flutter Frameork
-<!-- - 👯 I’m looking to collaborate on new open-source projects. -->
 - 🤝 I like to work with a team.
 - 😄 I'm eager to learn new things.
 - ⚡ Fun fact: Love to Reading Books
