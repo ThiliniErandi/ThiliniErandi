@@ -10,6 +10,8 @@ Welcome to my Profile! I am an undergraduate student @Sabaragamuwa University of
 
 ### About me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
+- 🔭 I’m currently working on my mini project
+- 🌱 I’m currently learning Flutter Frameork
 - 👯 I’m looking to collaborate on new open-source projects.
 - 🤝 I like to work with a team.
 - 😄 I'm eager to learn new things.
