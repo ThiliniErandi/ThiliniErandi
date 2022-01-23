@@ -27,6 +27,9 @@ Welcome to my Profile! I am an undergraduate student @Sabaragamuwa University of
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="50"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="80"> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="40"> | <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
+<!-- <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=60 alt="nodejs icon"> -->
+<!-- <img src="https://user-images.githubusercontent.com/59575502/127426153-6f6d6c91-9778-43d9-a1df-95df61f23438.png" alt="mongodb" width="25" height="25" /> -->
+
 <hr>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ThiliniErandi&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/ThiliniErandi)
