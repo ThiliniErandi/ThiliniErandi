@@ -17,8 +17,11 @@ Welcome to my Profile! I am an undergraduate student at [Sabaragamuwa University
 - ⚡ Fun fact: Love to Reading Books
 
 ### 📫 Reach me on
-<a href="https://www.linkedin.com/in/thilini-erandi-3187451a2/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="20" width="30" /></a>
-<a href = "mailto: thilini.e97@gmail.com"><img  src="https://simpleicons.org/icons/gmail.svg" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/thilini-erandi-3187451a2/" target="blank">
+  <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="20" width="30" /></a>
+<a href = "mailto: thilini.e97@gmail.com">
+  <img  src="https://simpleicons.org/icons/gmail.svg" height="20" width="30" />
+</a>
 
 <hr>
 
@@ -33,5 +36,4 @@ Welcome to my Profile! I am an undergraduate student at [Sabaragamuwa University
 <hr>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ThiliniErandi&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/ThiliniErandi)
- <img height= "150" width= "300" align="right" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ThiliniErandi&theme=react&layout=compact](https://github-readme-stats.vercel.app/api?username=ThiliniErandi&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true))" />
  <img height= "150" width= "300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiliniErandi&theme=react&layout=compact" />
