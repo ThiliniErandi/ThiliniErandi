@@ -33,4 +33,4 @@ Welcome to my Profile! I am an undergraduate student at [Sabaragamuwa University
 <hr>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ThiliniErandi&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/ThiliniErandi)
- <img height= "200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiliniErandi&theme=react&layout=compact" />
+ <img height= "150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiliniErandi&theme=react&layout=compact" />
