@@ -10,8 +10,8 @@ Welcome to my Profile! I am an undergraduate student at [Sabaragamuwa University
 
 ### About me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
-- 🔭 I’m currently working on my mini project
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working as a SQA Intern
+- 🌱 I’m currently learning Automation Testing
 - 🤝 I like to work with a team.
 - 😄 I'm eager to learn new things.
 - ⚡ Fun fact: Love to Reading Books
