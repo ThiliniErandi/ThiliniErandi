@@ -18,7 +18,7 @@ Welcome to my Profile! I am an undergraduate student at [Sabaragamuwa University
 
 ### 📫 Reach me on
 <a href="https://www.linkedin.com/in/thilini-kumarawadu-3187451a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://thilini.e97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Gmail"></a>
+<a href="https://thilini.kumarawadu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Gmail"></a>
 
 <hr>
 
