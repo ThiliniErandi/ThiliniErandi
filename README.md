@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 
-Welcome to my Profile! I am an undergraduate student at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/).
+Welcome to my profile! I hold a BSc.Computing & Information Systems degree from [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/).
 
 ### About me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
